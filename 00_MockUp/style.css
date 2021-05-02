@@ -20906,35 +20906,35 @@ Preview Page Style Css
   width: 39%;
 }
 
-@media only screen and (min-width: 2000px) and (max-width: 4000px) {
+/* @media only screen and (min-width: 2000px) and (max-width: 4000px) {
   .pv-banner-area .mokup-group .single-mokup.mokup-2 {
     right: 26%;
     bottom: 19%;
-    width: 800px;
+    width: 100px;
   }
-}
+} */
 
-@media only screen and (min-width: 1200px) and (max-width: 1599px) {
+/* @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .pv-banner-area .mokup-group .single-mokup.mokup-2 {
     right: 14%;
     bottom: 16%;
     width: 43%;
   }
-}
+} */
 
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
+/* @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .pv-banner-area .mokup-group .single-mokup.mokup-2 {
     right: 4%;
     bottom: 16%;
     width: 60%;
   }
-}
+} */
 
-@media only screen and (max-width: 767px) {
+/* @media only screen and (max-width: 767px) {
   .pv-banner-area .mokup-group .single-mokup.mokup-2 {
     display: none;
   }
-}
+} */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .pv-banner-area .mokup-group .single-mokup.mokup-2 img {
